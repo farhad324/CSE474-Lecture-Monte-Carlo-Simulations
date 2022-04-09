@@ -11,3 +11,5 @@ Mail: md.farhadul.islam@g.bracu.ac.bd; farhadulfuad324@gmail.com
 
 I took the class in Bangla as most of the students are comfortable in Bangla here. But the slides are in English.
 
+I thank [Meem Arafat Manab Sir](https://www.bracu.ac.bd/about/people/meem-arafat-manab) for honoring me with the invitation to take a class on Monte Carlo Simulation in his absence. I feel highly honored to get this chance as an undergrad student in the university.
+
