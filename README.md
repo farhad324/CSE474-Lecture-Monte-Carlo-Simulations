@@ -1,5 +1,5 @@
 # Monte-Carlo-Simulations
-Repository created for a lecture of the course CSE474 - Simulation & Modeling ,BRAC University.
+Repository created for a lecture of the course CSE474 - Simulation & Modeling, BRAC University.
 
 Lecture Video: https://youtu.be/sKO0243i6-Y 
 
